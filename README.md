@@ -1,5 +1,10 @@
 # 💫 About Me:
-i am a data science undergraduate student, in 2nd year.<br>i have a strong hold on Python<br>what i am currently learning and working on are - numpy pandas RDBMS ETLs<br>i am aiming to become an AI/Data Engineer
+hey, i'm wamiq 👋
+a computer science & data science student who likes building things at the intersection of data, ai, engineering, and creativity.
+i'm currently exploring machine learning, ai engineering, full-stack development, and creative technology, while sharpening my foundations in dsa, mathematics, and systems.
+i enjoy turning random ideas into real, usable projects, experimenting with new technologies, and occasionally disappearing into a rabbit hole because something looked interesting.
+outside of code, i'm into sketching, 3d & animation, games, football, and exploring new places.
+currently learning. constantly building. probably breaking something.
 
 
 ## 🌐 Socials:
