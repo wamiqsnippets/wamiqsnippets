@@ -1,4 +1,5 @@
 <img width="640" height="360" alt="WhatsApp Video 2026-11-17 at 8 46 58 PM" src="https://github.com/user-attachments/assets/46a9bdd3-76f4-48e9-9beb-64ddadbca5b3" />
+
 # 💫 About Me:
 hey, i'm wamiq 👋
 a computer science & data science student who likes building things at the intersection of data, ai, engineering, and creativity.
